@@ -1,0 +1,27 @@
+{
+  "name": "nodejs_demo",
+  "version": "1.0.0",
+  "description": "demo nodejs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "type": "module",
+  "license": "ISC",
+  "dependencies": {
+    "@adminjs/express": "^6.1.0",
+    "@adminjs/import-export": "^3.0.0",
+    "@adminjs/mongoose": "^4.1.0",
+    "adminjs": "^7.8.13",
+    "component-loader": "^0.1.1",
+    "express": "^4.21.1",
+    "express-formidable": "^1.2.0",
+    "express-session": "^1.18.1",
+    "import-export": "^1.0.1",
+    "mongoose": "^8.7.3",
+    "nodemon": "^3.1.7",
+    "ts-node": "^10.9.2",
+    "tslib": "^2.8.0"
+  }
+}
